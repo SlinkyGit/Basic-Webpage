@@ -2,3 +2,14 @@ body {
 	color: lightblue;
 	background-color: salmon;
 }
+
+li {
+	list-style: none;
+	background-color: lightseagreen;
+	color: tomato;
+	display: inline;
+
+}
+a {
+	text-decoration: none;
+}
