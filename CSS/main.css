@@ -1,15 +1,20 @@
-body {
+h3 {
 	color: lightblue;
-	background-color: salmon;
+	background-color: lightseagreen;
+	display: inline;
 }
 
 li {
 	list-style: none;
-	background-color: lightseagreen;
 	color: tomato;
 	display: inline;
 
 }
 a {
 	text-decoration: none;
+}
+
+body {
+	color: lightblue;
+	background-color: salmon;
 }
